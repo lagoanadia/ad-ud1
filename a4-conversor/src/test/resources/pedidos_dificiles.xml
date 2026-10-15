@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+  <pedido id="P101" fecha="2026-09-10">
+    <cliente>Talleres "O Rápido", S.L.</cliente>
+    <lineas>
+      <linea producto="Kit de embrague, reforzado" cantidad="1" precio="189.00"/>
+      <linea producto="Tornillería &amp; juntas" cantidad="10" precio="0.35"/>
+    </lineas>
+  </pedido>
+  <pedido id="P102" fecha="2026-09-11">
+    <lineas>
+      <linea producto="Batería 70Ah" cantidad="1" precio="95.00"/>
+    </lineas>
+  </pedido>
+</pedidos>

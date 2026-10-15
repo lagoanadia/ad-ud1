@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+  <pedido id="P001" fecha="2026-09-01">
+    <cliente>Ana López</cliente>
+    <lineas>
+      <linea producto="Filtro de aceite" cantidad="2" precio="12.50"/>
+      <linea producto="Aceite 5W30 5L" cantidad="1" precio="38.90"/>
+    </lineas>
+  </pedido>
+  <pedido id="P002" fecha="2026-09-02">
+    <cliente>Luis Vázquez</cliente>
+    <lineas>
+      <linea producto="Pastillas de freno" cantidad="4" precio="21.00"/>
+    </lineas>
+  </pedido>
+  <pedido id="P003" fecha="2026-09-03">
+    <cliente>Recambios Miño</cliente>
+    <lineas>
+      <linea producto="Escobilla limpiaparabrisas" cantidad="2" precio="9.95"/>
+      <linea producto="Bombilla H7" cantidad="6" precio="4.20"/>
+      <linea producto="Líquido refrigerante" cantidad="3" precio="7.80"/>
+    </lineas>
+  </pedido>
+</pedidos>

@@ -1,0 +1,38 @@
+LINEA;CONTENIDO;MOTIVO
+11;"10000370Q,Lucía Rey,684641177,8597,";código postal no son 5 cifras
+13;"10033300X,Pedro Ríos,600777888,,";código postal no son 5 cifras
+22;"10000740H,Alba Tato,673517017,8065,";código postal no son 5 cifras
+26;"10033337R,,600222333,15001,";nombre vacío
+32;"10001073Y,Rosa Iglesias,646100526,8460,";código postal no son 5 cifras
+39;"10033374S,""Talleres Miño, S.L."",600333444,15002,";esperaba 4 campos, hay 5
+44;"10001480E,Diego Lameiro,693555402,8067,";código postal no son 5 cifras
+45;"10001517J,Paula Abelleira,608142912,8719,";código postal no son 5 cifras
+46;"10001554G,Brais Currás,641554798,8592,";código postal no son 5 cifras
+60;"1234567,Luis Vas,600222333,15004,";DNI con formato incorrecto
+67;"10033448C,Eva Sáez,600999000,1500,";código postal no son 5 cifras
+70;"10002331E,HugoOtero,616843185,8880,";código postal no son 5 cifras
+72;"10002405G,Diego Lameiro,690758038,8056,";código postal no son 5 cifras
+73;"10002442H,Paula Abelleira,661289682,8818,";código postal no son 5 cifras
+75;"10033485B,Marta Pombo,600111000,15005,EXTRA";esperaba 4 campos, hay 5
+77;"10002553Z,Martín Piñeiro,664628898,8411,";código postal no son 5 cifras
+86;"10002886W,Carlos Seoane,619938108,8259,";código postal no son 5 cifras
+89;",,,,";DNI con formato incorrecto
+93;"10003108V,Iván Castro,645987803,8272,";código postal no son 5 cifras
+94;"10003145P,Lucía Rey,664239549,8166,";código postal no son 5 cifras
+96;"10033522W,Iván Castro,no disponible,15006,";teléfono no es un número válido
+100;"10003330D,Diego Lameiro,612215229,8866,";código postal no son 5 cifras
+104;",,,,";DNI con formato incorrecto
+108;"10003589S,Iria Valcárcel,653778945,8823,";código postal no son 5 cifras
+113;"10000444K,Lucía Rey,600123456,15007,";DNI duplicado
+114;"10003774Q,María Núñez,625990584,8620,";código postal no son 5 cifras
+122;"10004070J,Lucía Rey,646171824,8087,";código postal no son 5 cifras
+129;"10004292M,Paula Abelleira,653873226,8087,";código postal no son 5 cifras
+134;"10033596F,Noa Barreiro,600888777,,";código postal no son 5 cifras
+138;"10004588W,Carme Souto,601911654,8666,";código postal no son 5 cifras
+142;"#  exportado por GestTaller 4.2 el 12/03/2019,,,,";línea de comentario del exportador, no es un cliente
+158;"10005254R,Brais CurrÃ¡s,643752583,8531,";código postal no son 5 cifras
+169;"10005661V,Carlos Seoane,633239798,8536,";código postal no son 5 cifras
+175;"10005883D,IvÃ¡n Castro,628546741,8311,";código postal no son 5 cifras
+177;"10005957Z,AndrÃ©s Mosquera,686363470,8375,";código postal no son 5 cifras
+181;"10006105R,Diego Lameiro,621849997,8853,";código postal no son 5 cifras
+188;"10006364F,Iria ValcÃ¡rcel,659117285,8019,";código postal no son 5 cifras

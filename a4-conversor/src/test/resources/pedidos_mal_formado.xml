@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+  <pedido id="P001" fecha="2026-09-01">
+    <cliente>Ana López</cliente>
+    <lineas>
+      <linea producto="Filtro de aceite" cantidad="2" precio="12.50"/>
+    </lineas>
+  <pedido id="P002" fecha="2026-09-02">
+</pedidos>
